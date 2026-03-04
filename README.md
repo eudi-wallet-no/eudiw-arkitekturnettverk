@@ -1,2 +1,4 @@
 # eudiw-arkitekturnettverk
-Saksbehandling for Arkitekturnettverket for nasjonal sandkasse for digital lommebok
+Repo for issues og underlagsdokumenter for Arkitekturnettverket for sandkassa.
+
+Sjå [Kanban-boardet her](https://github.com/orgs/eudi-wallet-no/projects/1).
